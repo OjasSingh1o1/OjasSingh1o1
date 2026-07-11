@@ -1,6 +1,9 @@
 <h1 align="center">Ojas Kushwah</h1>
-<h6 align="center">CS Student @ VIPS, Delhi | Intern @ ITC Infotech | Building Apps w MERN</h6> 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ojas-kushwah-149a80350)
+<h6 align="center">
+CS Student @ VIPS, Delhi | Intern @ ITC Infotech | Building Apps w MERN
+&nbsp;
+<a href="https://linkedin.com/in/ojas-kushwah-149a80350"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="20" align="center" /></a>
+</h6>
 
 ---
 
