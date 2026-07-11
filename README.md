@@ -15,24 +15,24 @@ CS Student @ VIPS, Delhi | Intern @ ITC Infotech | Building Apps w MERN
 
 ---
 
-### Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-**Languages**
+<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,java,c" />
 </p>
 
-**Frameworks**
+<h4 align="center">Frameworks</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
 </p>
 
-**Databases**
+<h4 align="center">Databases</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-**Tools**
+<h4 align="center">Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,replit" />
 </p>
