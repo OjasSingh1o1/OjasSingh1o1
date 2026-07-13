@@ -19,7 +19,7 @@ CS Student @ VIPS, Delhi | Intern @ ITC Infotech | Building Apps w MERN
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,c" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,c" />
 </p>
 
 <h4 align="center">Frameworks</h4>
